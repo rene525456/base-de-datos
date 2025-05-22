@@ -1,0 +1,6 @@
+IdTransaccion,NumCuenta,Tipo,Monto,Fecha
+T1,A1,retiro,500,2024-12-01
+T2,A2,deposito,2000,2024-12-05
+T3,A3,retiro,1000,2024-12-10
+T4,A4,retiro,200,2024-12-11
+T5,A3,deposito,1500,2024-12-12

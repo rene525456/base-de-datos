@@ -1,0 +1,6 @@
+[
+  { "id_cuenta": 101, "tipo": "ahorro", "saldo": 5000, "id_sucursal": 10 },
+  { "id_cuenta": 102, "tipo": "corriente", "saldo": 2000, "id_sucursal": 11 },
+  { "id_cuenta": 103, "tipo": "ahorro", "saldo": 3000, "id_sucursal": 10 }
+]
+

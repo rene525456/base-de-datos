@@ -1,0 +1,6 @@
+[
+  { "id_transaccion": 1, "id_cuenta": 101, "fecha": "2025-05-01", "monto": 1500, "tipo": "deposito" },
+  { "id_transaccion": 2, "id_cuenta": 102, "fecha": "2025-05-02", "monto": 500, "tipo": "retiro" },
+  { "id_transaccion": 3, "id_cuenta": 103, "fecha": "2025-05-03", "monto": 1200, "tipo": "deposito" }
+]
+

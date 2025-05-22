@@ -1,0 +1,5 @@
+[
+  { "id_sucursal": 10, "nombre": "Sucursal Centro", "ciudad": "Monterrey" },
+  { "id_sucursal": 11, "nombre": "Sucursal Norte", "ciudad": "Guadalajara" }
+]
+

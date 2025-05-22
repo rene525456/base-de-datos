@@ -1,0 +1,6 @@
+[
+  { "id_cliente": 1, "nombre": "Ana Pérez", "direccion": "Calle 1" },
+  { "id_cliente": 2, "nombre": "Luis Gómez", "direccion": "Calle 2" },
+  { "id_cliente": 3, "nombre": "Marta Díaz", "direccion": "Calle 3" }
+]
+
